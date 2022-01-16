@@ -15,5 +15,9 @@ fun main(args: Array<String>) {
 	println("Some changes")
 	println("Hello world")
 	println("Some changes")
+	println("Hello world")
+	println("Some changes")
+	println("Hello world")
+	println("Some changes")
 	runApplication<DemoApplication>(*args)
 }
